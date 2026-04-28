@@ -32,7 +32,7 @@ AI-powered voice-first validator for Indian government forms (Aadhaar, Ration Ca
 
 ## Team
 
-Thapar Institute of Engineering & Technology
+Team optimusCryme
 Google Solution Challenge 2026
 
 ## Local Development
